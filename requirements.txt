@@ -3,5 +3,6 @@ numpy
 seaborn 
 matplotlib
 scikit-learn
-streamlit
 scipy
+altair==4.0.0
+streamlit==1.19.0
